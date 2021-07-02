@@ -1,0 +1,57 @@
+- Joseph Readme -
+
+
+  = Q & A =
+
+
+ Q : Why Joseph? 
+
+ A : Young Joseph is one of my three mains in JoJo's Bizarre Adventure: Heritage for the Future, which is a fighting game I play
+     a lot of. He's also my favorite JoJo from the series itself. I will eventually be re-re-re-recreating DIO again in the future
+     since he's my third HFTF main (4 if you count Shadow DIO).
+
+
+ Q : What's his playstyle like?
+
+ A : Young Joseph takes a lot from his HFTF appearance, however to fit the CvS2 style his rushdown is toned down in order to
+     balance him out when against other CvS2 characters.
+
+
+ Q : How do you play Joseph?
+
+ A : Young Joseph is a rushdown character with many different setups for combos. Since he has both a forwards and backwards run, he
+     will be able to move around pretty quickly especially if he's trying to run away. Joseph has decent combo potential only made even
+     mode apparent through his Clacker Boomerang and Cannonball Shot, which are both tools used to set up big combos. His cr.MK is a great
+     poke, since it has velocity and decent frame data. His Clacker Volley rekka move is easily his best combo ender, however outside of
+     being used in combos, the Clacker Volley rekka isn't really useful as much elsewhere. Joseph's hop kick is also a decent overhead, but
+     has a very slow recovery. His main form of rushing down is hyper hopping and using j.HK xx Aerial Clacker Volley has his main attack,
+     and also is used for a majority of his combo starters. So, in short, to play Young Joseph you need to have decent knowledge of his
+     rushdown, but also know when to use his combo set ups and also when to play defensively when necessary.
+
+
+
+  = BEGINNER COMBOS =
+
+ cr.LP xx cr.LP xx s.MK xx HP.Clacker Volley Rekka
+
+ cr.LP xx cr.LK xx cr.MK xx Unforgettable Memories
+
+ st.MK xx LP.Hamon Pop, Hamon Overdrive
+
+ cr.LP xx cr.LP xx cr.LK xx cr.MK
+
+ cr.LP xx st.MK xx EX.Clacker Volley Rekka, MP.Hamon Pop, cr.HP
+
+
+  = CUSTOM COMBOS =
+
+ Install, repeat (cr.MK xx Clacker Volley xx Clacker Vollet Forward), Tommy Gun Barrage
+
+ Install, repeat (cr.MK xx Clacker Volley xx st.HK xx cr.MP), Tommy Gun Barrage
+
+
+ = CREDITS =
+
+  Nimame/Men's Club & Mete (aka BurningSoul) - SFF
+
+  KarmaCharizard & Trololo - Feedback

@@ -1,0 +1,104 @@
+;----------------------------
+;-| Y.JOSEPH by JtheSaltyy |-
+;----------------------------
+;    - CONSTANTS FILE -
+;----------------------------
+
+;================================
+
+[Data]
+life = 1025
+attack = 100
+defence = 100
+fall.defence_up = 52
+liedown.time = 57
+airjuggle = 15
+sparkno = -1
+guard.sparkno = S7001
+KO.echo = 0
+volume = 100
+IntPersistIndex = 0
+FloatPersistIndex = 0
+
+;================================
+
+[Size]
+xscale = 0.833		
+yscale = 1.09		
+ground.back = 16		
+ground.front = 16		
+air.back = 15		
+air.front = 15	
+height = 65			
+attack.dist = 160	
+proj.attack.dist = 90	
+proj.doscale = 0		   
+head.pos = -6, -110
+mid.pos = 8, -75		
+shadowoffset = 0		
+draw.offset = 0,0		
+
+;================================
+
+[Velocity]
+walk.fwd  = 2.85
+walk.back = -2.7
+run.fwd  = 5, -4		
+run.back = -5, -5			
+jump.neu = 0, -9 
+jump.back = -2.5, -9 
+jump.fwd = 2.3, -9
+runjump.back = -5,-8
+runjump.fwd = 5,-8	
+
+;================================
+
+[Movement]
+airjump.num = 0		
+airjump.height = 28		
+yaccel = 0.515		
+stand.friction = .85		
+crouch.friction = .82
+air.gethit.groundrecover.ground.threshold = -20
+air.gethit.groundrecover.groundlevel = 10
+air.gethit.airrecover.threshold = -1
+air.gethit.airrecover.yaccel = 0.35
+
+;================================
+
+[Quotes]
+
+;=[ JOSEPH QUOTES ]=
+
+victory1 = "Oh, please. I barely love-tapped you and you're on the floor."
+victory2 = "Don't get pushy with me. I'm not so fond of empty fights like these."
+victory3 = "Your next line will be 'bastard... I let you win that one!'"
+victory4 = "You fail to realize I have a plan B for everything I do."
+victory5 = "I may seem very cocky, but that's to make the opponent predictable and pissed off."
+victory6 = "These Clacker Volleys are no children's toys. I said they'd hurt."
+victory7 = "I've mastered the art of hamon. How else are you gonna try to beat me?"
+victory8 = "Trying to get up, are you? You have endurance but no skill."
+victory9 = "Oh, I'm sorry. I was supposed to let you hit me once right?"
+victory10 = "Everything always works for me. I'm a very careful schemer."
+victory11 = "Once you started boasting that you won, it was already clear that you lost."
+victory12 = "Was something about my appearance not making you think I was strong?"
+victory13 = "I don't have time to waste with idiots like you."
+victory14 = "We may have been at a neutral position, but I told you not to try anything funny."
+victory15 = "I have more tricks up my sleeve than numbers you can count up to."
+
+;=[ SPECIAL QUOTES ]=
+
+; vs. Jotaro
+victory16 = "Wait, this little punk is my grandson?? What the hell happened in my gene pool??"
+
+; vs. Joseph
+victory17 = "Your next line will be 'Your next line will be..`"
+
+; vs. DIO
+victory18 = "So you're the guy my grandfather hates. Well, this beatdown is for him!"
+
+; vs. Jonathan
+victory19 = "It was nice trading blows with you. I guess hamon just runs through the family."
+
+; vs. Josuke
+victory20 = "Huh, I had a son? Well, I guess Suzy Q. and I got busy! Wait... She wasn't the mother?"
